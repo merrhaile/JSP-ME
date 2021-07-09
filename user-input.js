@@ -1,6 +1,6 @@
 
 const prompt = require('prompt-sync')();
-const s = prompt("Enter side of a square: ");
+let s = prompt("Enter side of a square: ");
 s = parseInt(s);
 
 

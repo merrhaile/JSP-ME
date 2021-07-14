@@ -1,3 +1,4 @@
+// As in for-loop repetition can be handled using while-loop
 
 let result = 1;
 let num = 5;

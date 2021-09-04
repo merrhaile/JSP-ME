@@ -5,9 +5,9 @@
 // Declaring and defining an object
 
 const car = {
-    make: "Toyota",
-    model: "Camery",
-    year: "2014",
+    make: "Nissan",
+    model: "Rogue",
+    year: "2019",
 };
 
 console.log(car);
